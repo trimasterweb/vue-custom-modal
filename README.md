@@ -17,3 +17,6 @@ link in your page or js file "vue-custom-modal.js" and a css file "vue-custom-mo
   <iframe :src="getIframeUrl()" frameborder="0" scrolling="no" width="100%" height="540" />
 </custom-modal>
 ```
+
+### Demo
+- [Link Project](https://trimasterweb.github.io/vue-custom-modal/)
